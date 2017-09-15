@@ -1,0 +1,3 @@
+[submodule "shutit-scripts"]
+	path = shutit-scripts
+	url = https://github.com/ianmiell/shutit-scripts
