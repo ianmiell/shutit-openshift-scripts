@@ -2,4 +2,4 @@
 
 PYTHONPATH=${PYTHONPATH}:../shutit-scripts/minishift
 
-python oc-priv-access.py
+python get-info.py
