@@ -24,4 +24,9 @@ s1.send('oc adm policy who-can list roles')
 # Find out who can perform a specific action all over the cluster
 s1.send('oc adm policy who-can list roles --all-namespaces')
 
+# Show information about image usage 
+s1.send('oc adm top images')
+s1.send('oc adm top imagestreams')
+
+
 # Project level
